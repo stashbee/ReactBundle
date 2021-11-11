@@ -35,6 +35,5 @@
         "post-update-cmd": [
             "@default-scripts"
         ]
-    },
-    "minimum-stability": "dev"
+    }
 }
